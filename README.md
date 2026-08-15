@@ -1,17 +1,17 @@
 # 9platinumcs3
-hello po ^^ ʕ´•ᴥ•`ʔ
+## hello po ^^ ʕ´•ᴥ•`ʔ
 ---
 
-def name():
-    print("Dierrel Jed M. Jadie")
+def name():  
+    print("__Dierrel Jed M. Jadie__")
 
-def g9 section():
-    print("9-Platinum")
+def g9 section():  
+    print("__9-Platinum__")
 
-def old sections(): 
-    print("7-Diamond, 8-Rosal")
+def old sections():  
+    print("__7-Diamond, 8-Rosal__")
 
-interests = rhythm games(pjsk), drawing/painting
+interests = __rhythm games(pjsk), drawing/painting__
 
 end of code..
 
@@ -20,3 +20,6 @@ end of code..
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsPlatinumJadie.md)
+
+### Chinese Zodiac
+[View my Chinese Zodiac](q1/zodiacPlatinumJadie.md)
