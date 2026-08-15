@@ -8,6 +8,7 @@
 
 ## Step 1: Identify the Big Problem
 ### Main Problem
+
 The PSHS school canteen often gets crowded during lunch break because the process is inefficient due to it mostly being manual and the lack of visibility on items.
 ---
 ## Step 2: Identify the Sub-Problems
