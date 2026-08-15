@@ -33,4 +33,4 @@ else:
 
 ## Output
 
-![Alt text](./images/Screenshot (350).png)
+![Alt text](./images/Screenshot_zodiac.png)
