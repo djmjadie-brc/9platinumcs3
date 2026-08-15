@@ -10,6 +10,7 @@
 ### Main Problem
 
 The PSHS school canteen often gets crowded during lunch break because the process is inefficient due to it mostly being manual and the lack of visibility on items.
+
 ---
 ## Step 2: Identify the Sub-Problems
 1. Many students take too long to decide what to order as they cannot see the menu easily, making ordering times longer.
