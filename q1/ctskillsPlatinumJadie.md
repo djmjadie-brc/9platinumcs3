@@ -42,5 +42,6 @@ ELIF total price > amt given:
   OUTPUT "short on payment by (total price) - (amt given)
 ELSE:
   OUTPUT "invalid payment"
+
 END
 ---
