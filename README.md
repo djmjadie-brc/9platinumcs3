@@ -1,5 +1,5 @@
 # 9platinumcs3
-## hello po ^^ ʕ´•ᴥ•`ʔ
+### hello po ^^ ʕ´•ᴥ•`ʔ
 ---
 
 def name():  
@@ -23,3 +23,6 @@ end of code..
 
 ### Chinese Zodiac
 [View my Chinese Zodiac](q1/zodiacPlatinumJadie.md)
+
+### OOP Concept
+[View my ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
