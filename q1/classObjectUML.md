@@ -14,9 +14,10 @@
 ## Methods
 | Method | Description |
 |---|---|
-| give_currentlocation(newlocation: string)‎ | Gives the current location of the typhoon |
+| give_currentlocation()‎ | Gives the current location of the typhoon |
 | create_summary() | Creates a text report of the typhoons properties (name, signal no., wind speed) |
 | get_speed() | Calculates the current avg speed of the typhoon |
+| update_signalnumber(new_signalnumber: integer) | Updates the signal number of the typhoon. |
 
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
@@ -26,4 +27,4 @@
 ### Which property is the most important? Why?
 - I think the property that is the most important is the signal_number because it tells us how strong the typhoon is, which helps us know the safety measures we should take and how prepared we should be for the typhoon.
 ### Which method is the most useful? Why?
-- I think its give_currentlocation because it lets us know where the typhoon is and tells us what places are affected by this.
+- I think its give_currentlocation because it lets us know where the typhoon is, and tells us what places are affected by this.
