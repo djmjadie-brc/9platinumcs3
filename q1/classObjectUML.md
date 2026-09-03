@@ -16,7 +16,6 @@
 |---|---|
 | give_currentlocation()‎ | Gives the current location of the typhoon |
 | create_summary() | Creates a text report of the typhoons properties (name, signal no., wind speed) |
-| get_speed() | Calculates the current avg speed of the typhoon |
 | update_signalnumber(new_signalnumber: integer) | Updates the signal number of the typhoon. |
 
 ## Class Diagram
