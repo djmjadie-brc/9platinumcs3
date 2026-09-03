@@ -28,4 +28,4 @@ end of code..
 [View my ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 
 ### OOP Act
-[View my SG4-Understanding Classees and Objects](classUML.md)
+[View my SG4-Understanding Classees and Objects](classObjectUML.md)
