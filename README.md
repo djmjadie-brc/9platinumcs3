@@ -29,3 +29,6 @@ end of code..
 
 ### OOP Act
 [View my SG4-Understanding Classees and Objects](q1/classObjectUML.md)
+
+### OOP Act-PartII
+[View my OOP Seed System - Part II](q1/classAttributesMethods.md)
