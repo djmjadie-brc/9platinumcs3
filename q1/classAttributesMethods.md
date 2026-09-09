@@ -32,7 +32,7 @@ No major changes were needed from my original design.
 - I made it private because it can't be changed incorrectly and spread misinformation.
 
 ### Which method changes the state of your object?
-- The method that changes the state of my object is update_signalnumber(new_signalnumber: integer).
+- The method that changes the state of my object is update_signalnumber(new_signalnumber : integer).
 
 ### How did your two objects demonstrate that instances are independent?
 - It shows that instances are independent because when I changed the state of something in object 1, the second object's state didn't change at all.
