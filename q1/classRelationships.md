@@ -6,19 +6,23 @@
 
 ## Existing Class
 Class: Typhoon
+
 Description: This class represents tracking a typhoon with its location, signal number, windspeed and more.
 
 ## New Related Class
 Class: CycloneBulletin
+
 Description: This class represents showing the different levels of a typhoon/cyclone and showing a warning system in each level.
 
 ## Association
 Relationship: A typhoon includes a dedicated cyclone bulletin
+
 Explanation: A cyclone bulletin shows the strength of it and shows the necessary precautions we must do when hit by this typhooon/tropical storm so it is a HAS-A relationship.
 
 ## Multiplicity
 
 Multiplicity: 1..* (One or more)
+
 Explanation: A tropical cyclone/typhoon can have multiple bulletins as the strength of it can vary over time. Moreover, having multiple bulletins rather than only udating one can show the history of the typhoon's strength and wind signal.
 
 ## UML Class Relationship Diagram
