@@ -32,3 +32,6 @@ end of code..
 
 ### OOP Act-PartII
 [View my OOP Seed System - Part II](q1/classAttributesMethods.md)
+
+### OOP Act-PartIII
+[View my OOP Seed System - Part III](q1/classRelationships.md)
