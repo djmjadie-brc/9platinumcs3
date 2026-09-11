@@ -40,9 +40,9 @@ __Explanation:__ A tropical cyclone/typhoon can have multiple bulletins as the s
 
 ## Analysis
 ### What is the association between your two classes?
-- The association between my classes is that a typhoon can include a cyclone bulletin.
+- The association between my classes is that a typhoon can include a cyclone bulletin. Using my actual system, you can see that a typhoon has multiple cyclone bulletins.
 ### What multiplicity did you choose and why?
-- I chose the multiplicity of zero or more because a tropical cyclone/typhoon can have multiple bulletins as the strength of it can vary over time, can show the history of the typhoon's strength, and it can have none if it is not inside the Philippine Area of Responsibility (PAR).
+- I chose the multiplicity of zero or more because a typhoon can have multiple bulletins as the strength of it can vary over time. Moreover, having multiple bulletins rather than only udating one can show the history of the typhoon's strength and wind signal. Lastly, it can have no cyclone bulletins if it is not inside the Philippine Area of Responsibility (PAR).
 ### How did you implement the relationship in Python?
 - 
 ### Why did you store an object reference instead of copying its data?
