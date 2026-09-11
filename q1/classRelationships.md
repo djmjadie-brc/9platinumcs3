@@ -2,28 +2,29 @@
 ## Previous Work
 
 [Part I - Classes and Objects](classObjectUML.md)
+
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 
 ## Existing Class
-Class: Typhoon
+__Class:__ Typhoon
 
-Description: This class represents tracking a typhoon with its location, signal number, windspeed and more.
+__Description:__ This class represents tracking a typhoon with its location, signal number, windspeed and more.
 
 ## New Related Class
-Class: CycloneBulletin
+__Class:__ CycloneBulletin
 
-Description: This class represents showing the different levels of a typhoon/cyclone and showing a warning system in each level.
+__Description:__ This class represents showing the different levels of a typhoon/cyclone and showing a warning system in each level.
 
 ## Association
-Relationship: A typhoon includes a dedicated cyclone bulletin
+__Relationship:__ A typhoon includes a dedicated cyclone bulletin
 
-Explanation: A cyclone bulletin shows the strength of it and shows the necessary precautions we must do when hit by this typhooon/tropical storm so it is a HAS-A relationship.
+__Explanation:__ A cyclone bulletin shows the strength of it and shows the necessary precautions we must do when hit by this typhooon/tropical storm so it is a HAS-A relationship.
 
 ## Multiplicity
 
-Multiplicity: 1..* (One or more)
+__Multiplicity:__ 0..* (Zero or more)
 
-Explanation: A tropical cyclone/typhoon can have multiple bulletins as the strength of it can vary over time. Moreover, having multiple bulletins rather than only udating one can show the history of the typhoon's strength and wind signal.
+__Explanation:__ A tropical cyclone/typhoon can have multiple bulletins as the strength of it can vary over time. Moreover, having multiple bulletins rather than only udating one can show the history of the typhoon's strength and wind signal. Lastly, a typhoon can have no cyclone bulletins if it is not inside the Philippine Area of Responsibility (PAR).
 
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
@@ -39,9 +40,9 @@ Explanation: A tropical cyclone/typhoon can have multiple bulletins as the stren
 
 ## Analysis
 ### What is the association between your two classes?
-- 
+- The association between my classes is that a typhoon can include a cyclone bulletin.
 ### What multiplicity did you choose and why?
-- 
+- I chose the multiplicity of zero or more because a tropical cyclone/typhoon can have multiple bulletins as the strength of it can vary over time, can show the history of the typhoon's strength, and it can have none if it is not inside the Philippine Area of Responsibility (PAR).
 ### How did you implement the relationship in Python?
 - 
 ### Why did you store an object reference instead of copying its data?
