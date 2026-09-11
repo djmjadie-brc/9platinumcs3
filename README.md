@@ -26,3 +26,12 @@ end of code..
 
 ### OOP Concept
 [View my ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+
+### OOP Act
+[View my SG4-Understanding Classees and Objects](q1/classObjectUML.md)
+
+### OOP Act-PartII
+[View my OOP Seed System - Part II](q1/classAttributesMethods.md)
+
+### OOP Act-PartIII
+[View my OOP Seed System - Part III](q1/classRelationships.md)
