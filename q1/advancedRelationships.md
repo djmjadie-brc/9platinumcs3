@@ -1,26 +1,26 @@
 # Advanced Class Relationships
 
 ## Previous Activities
-[classAttrib](classAttributesMethods.md)
+[classAttributeMethods](classAttributesMethods.md)
 
-[classRel](classRelationships.md)
+[classRelationships](classRelationships.md)
 
 ## Existing System Description:
 
 ## Inheritance Relationship
-Parent:
+Parent: CycloneBulletin
 
-Child:
+Child: CycloneWarningBulletin
 
-Explanation:
+Explanation: The term "cyclone bulletins" is generalized as there are many types of bulletins when issued at a different time. A cyclone warning bulletin is implemented when a storm is epected to hit landfall in less than 24 hours. So it is considered a child class from the CycloneBulletin parent class.
 
 ## Inheritance UML
 ![Inheritance](images/inheritanceDiagram.png)
 
 ## Composition/Aggregation
-Relationship:
+Relationship: The realationship im using is Composition (Strong HAS-A relationship)
 
-Explanation:
+Explanation: Because a CycloneWarningBulletin needs to own its specific alert details, such as the emergency instructions, and wind signals are created for that specific warning. If you delete the warning bulletin, the specific emergency proceudres should be deleted aswell.
 
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
