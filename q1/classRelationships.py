@@ -30,15 +30,15 @@ class CycloneBulletin:
     def __init__(self, bulletinNumber, windSignal, category, potentialImpacts):
         self.bulletinNumber = bulletinNumber
         self.windSignal = windSignal
-        self.category = category
-        self.potentialImpacts = potentialImpacts
+        self.__category = category
+        self.__potentialImpacts = potentialImpacts
 
     def bulletinSummary(self):
         print("Cyclone Bulletin:")
         print(f"Bulletin Number: {self.bulletinNumber}")
         print(f"Wind Signal: {self.windSignal}")
-        print(f"Category: {self.category}")
-        print(f"Potential Impacts: {self.potentialImpacts}")
+        print(f"Category: {self.__category}")
+        print(f"Potential Impacts: {self.__potentialImpacts}")
 
     def showWarning(self):
         if self.windSignal == 5:
