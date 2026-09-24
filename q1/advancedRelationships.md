@@ -40,7 +40,7 @@ __Explanation:__ Because a CycloneWarningBulletin needs to own its specific aler
 ![Objects](images/advancedObjectDiagram.png)
 
 ## Reflection
-Answers:
+__Answers:__
 
 1. As I said before, the term "cyclone bulletins" is generalized as there are many types of bulletins when issued at a different time. A cyclone warning bulletin is implemented when a storm is epected to hit landfall in less than 24 hours. So it is considered a child class from the CycloneBulletin parent class.
 
