@@ -38,3 +38,9 @@ end of code..
 
 ### OOP Act-PartIV
 [View my OOP Seed System - Part IV](q1/advancedRelationships.md)
+
+---
+# Quarter 2
+## Activities
+### SG8 Encapsulation Activity 3
+[View my Encapsulation Activity 3](q2/sg8_encapsulation.py)
