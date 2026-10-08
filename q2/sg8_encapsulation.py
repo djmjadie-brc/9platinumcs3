@@ -3,11 +3,11 @@ class BankAccount:  #below are the properties and methods of the class
         self.__account_number = account_number
         self.__balance = balance
 
-    def set_account_number(self, account_number: int):
+    def set_account_number(self, account_number: int):  #the property for setting an account number
         self.__account_number = account_number
 
-    def set_balance(self, update_balance: float):
-        if update_balance < 0:
+    def set_balance(self, update_balance: float):  #the property for setting the account's balance
+        if update_balance < 0:  #an if statement for preventing the balance to be negative
             print("The balance must not be a negative number")
             return
         
@@ -23,8 +23,8 @@ class BankAccount:  #below are the properties and methods of the class
 a1 = BankAccount(12345, 1000.00)  #object created for the class BankAccount
 
 print("Account 1")
-print("Account Number:", a1.get_account_number())
-print("Balance:", f"{a1.get_balance():.2f}")
+print("Account Number:", a1.get_account_number()) #outputs the account number
+print("Balance:", f"{a1.get_balance():.2f}") #outputs the account balance
 print(" ")
 
 print("Update balance to -100.00")
