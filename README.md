@@ -44,3 +44,6 @@ end of code..
 ## Activities
 ### SG8 Encapsulation Activity 3
 [View my Encapsulation Activity 3](q2/sg8_encapsulation.py)
+
+### SG9 Inheritance FA1 - Library Management System
+[View my Inheritance Activity 3](q2/sg9_inheritance.py)
