@@ -49,4 +49,4 @@ end of code..
 [View my Inheritance Activity 3](q2/sg9_inheritance.py)
 
 ### SG10 Zoo Management System
-[View my Method Overriding Activity 1](sg10_method_overriding.py)
+[View my Method Overriding Activity 1](q2/sg10_method_overriding.py)
