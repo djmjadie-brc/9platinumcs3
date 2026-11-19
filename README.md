@@ -53,3 +53,6 @@ end of code..
 
 ### SG11 Activity 1
 [View my Polymorphism Activity 1](q2/sg11_polymorphism_act1.py)
+
+### SG11 Activity 2
+[View my Polymorphism Activity 2](q2/sg11_polymorphism_act2.py)
