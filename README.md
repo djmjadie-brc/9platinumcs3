@@ -50,3 +50,6 @@ end of code..
 
 ### SG10 Zoo Management System
 [View my Method Overriding Activity 1](q2/sg10_method_overriding.py)
+
+### SG11 Activity 1
+[View my Polymorphism Activity 1](q2/sg11_polymorphism_act1.py)
